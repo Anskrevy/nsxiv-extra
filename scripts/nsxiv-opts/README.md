@@ -1,4 +1,4 @@
-# nsxiv-options
+# nsxiv-opts
 
 This is a wrapper for nsxiv-pipe, nsxiv-rifle, and nsxiv-url.
 
